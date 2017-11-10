@@ -1,0 +1,5 @@
+c:\users\mochibot\documents\visual studio 2017\Projects\JobDemo\JobDemo\bin\Debug\JobDemo.exe.config
+c:\users\mochibot\documents\visual studio 2017\Projects\JobDemo\JobDemo\bin\Debug\JobDemo.exe
+c:\users\mochibot\documents\visual studio 2017\Projects\JobDemo\JobDemo\bin\Debug\JobDemo.pdb
+c:\users\mochibot\documents\visual studio 2017\Projects\JobDemo\JobDemo\obj\Debug\JobDemo.exe
+c:\users\mochibot\documents\visual studio 2017\Projects\JobDemo\JobDemo\obj\Debug\JobDemo.pdb

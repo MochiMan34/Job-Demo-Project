@@ -1,0 +1,6 @@
+C:\Users\MochiBot\Documents\Visual Studio 2017\Projects\JobDemo3\JobDemo3\bin\Debug\JobDemo3.exe.config
+C:\Users\MochiBot\Documents\Visual Studio 2017\Projects\JobDemo3\JobDemo3\bin\Debug\JobDemo3.exe
+C:\Users\MochiBot\Documents\Visual Studio 2017\Projects\JobDemo3\JobDemo3\bin\Debug\JobDemo3.pdb
+C:\Users\MochiBot\Documents\Visual Studio 2017\Projects\JobDemo3\JobDemo3\obj\Debug\JobDemo3.csprojResolveAssemblyReference.cache
+C:\Users\MochiBot\Documents\Visual Studio 2017\Projects\JobDemo3\JobDemo3\obj\Debug\JobDemo3.exe
+C:\Users\MochiBot\Documents\Visual Studio 2017\Projects\JobDemo3\JobDemo3\obj\Debug\JobDemo3.pdb
